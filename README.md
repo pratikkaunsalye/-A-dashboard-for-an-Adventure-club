@@ -177,6 +177,6 @@ This project is provided as‑is for educational/analytical use. Add your organi
 
 ## 🙋 Support / Contact
 
-- Owner: _Add your name/team_  
-- Email: _you@example.com_  
-- Notes: If you share this report publicly, remove or anonymize confidential data.
+- Owner: Kaunsalye Pratik 
+- Email: pratikkaunsalye@gmail.com
+
